@@ -94,4 +94,6 @@ synth = SynthDef("WekiSynth",
 
 
 kaas is leker
+Niet waar
+
 

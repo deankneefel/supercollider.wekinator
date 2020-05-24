@@ -91,9 +91,3 @@ synth = SynthDef("WekiSynth",
 '/wek/outputs');
 
 )
-
-
-kaas is leker
-Niet waar
-
-

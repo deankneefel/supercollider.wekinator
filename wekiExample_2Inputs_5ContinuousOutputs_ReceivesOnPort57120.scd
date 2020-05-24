@@ -92,3 +92,6 @@ synth = SynthDef("WekiSynth",
 
 )
 
+
+kaas is leker
+
